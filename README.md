@@ -1,6 +1,6 @@
-# Online Logical Lallacy Detectors, Datasets and Tools
+# Logical Fallacy Detectors, Datasets and Tools
 
-## Online Logical Lallacy Detectors
+## Online Logical Fallacy Detectors
 
 Logical fallacy online detector tools available:
 
